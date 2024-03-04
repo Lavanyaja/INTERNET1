@@ -1,0 +1,13 @@
+h1 { color: red; }
+h2.blue { color: blue; }
+.gray { color: gray; }
+#golden { color: pink; }
+.container :nth-child(3n
+) { background: yellow; }
+ul :nth-child(2n + 1) {
+    backgrond: pink;
+    margin: 0.5cm;
+    color: blue;
+    padding: 0.5cm;
+    margin-top: 1cm;
+}
