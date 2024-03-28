@@ -10,7 +10,7 @@ var z = "Hello";
 console.log(z);
 var a = [x, y, z];
 console.log(a);
-var   st = [1, "0", [1,2], 4.8, true];
+var     st = [1, "0", [1,2], 4.8, true];
 console.log(st);
 var obj = {
     name:"Mr X",
